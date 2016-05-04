@@ -21,7 +21,6 @@ int main() {
 
 	cout << pileOfBooks.peek() << endl;
 
-
 	system("pause");
 	return 0;
 }
